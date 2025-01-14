@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xingchen.content.mapper.CourseCategoryMapper">
+
+    <!--课程分类的查询-->
+    <select id="selectTreeNodes" resultType="com.xingchen.domain.dto.CourseCategoryTreeDto" parameterType="string">
+        with recursive t1 as (
+            select * from  course_category p where  id= #{id}
+            union all
+            select t.* from course_category t inner join t1 on t1.id = t.parentid
+        )
+        select *  from t1 order by t1.id, t1.orderby
+    </select>
+
+</mapper>

@@ -1,0 +1,104 @@
+2025-01-14 15:04:27,231 INFO [http-nio-63110-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-14 15:04:27,231 INFO [http-nio-63110-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-14 15:04:27,270 INFO [http-nio-63110-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2025-01-14 15:04:27,270 INFO [http-nio-63110-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2025-01-14 15:04:27,815 INFO [http-nio-63110-exec-1][FrameworkServlet.java:547] - Completed initialization in 537 ms
+2025-01-14 15:04:27,815 INFO [http-nio-63110-exec-1][FrameworkServlet.java:547] - Completed initialization in 537 ms
+2025-01-14 15:04:29,144 INFO [http-nio-63110-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2025-01-14 15:04:29,144 INFO [http-nio-63110-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2025-01-14 15:04:33,806 INFO [http-nio-63110-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2025-01-14 15:04:33,806 INFO [http-nio-63110-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2025-01-14 15:08:31,335 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2025-01-14 15:08:31,335 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2025-01-14 15:08:31,349 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2025-01-14 15:08:31,349 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2025-01-14 15:08:31,360 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2025-01-14 15:08:31,360 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2025-01-14 15:08:31,400 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2025-01-14 15:08:31,400 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2025-01-14 15:09:05,746 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2025-01-14 15:09:05,746 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2025-01-14 15:09:11,947 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2025-01-14 15:09:11,947 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2025-01-14 15:09:18,721 INFO [main][GenericScope.java:295] - BeanFactory id=09d08fe0-0673-324b-a561-98fc6ec46711
+2025-01-14 15:09:18,721 INFO [main][GenericScope.java:295] - BeanFactory id=09d08fe0-0673-324b-a561-98fc6ec46711
+2025-01-14 15:09:20,312 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63110 (http)
+2025-01-14 15:09:20,312 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63110 (http)
+2025-01-14 15:09:20,325 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63110"]
+2025-01-14 15:09:20,325 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63110"]
+2025-01-14 15:09:20,326 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2025-01-14 15:09:20,326 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2025-01-14 15:09:20,327 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2025-01-14 15:09:20,327 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2025-01-14 15:09:20,659 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2025-01-14 15:09:20,661 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 8654 ms
+2025-01-14 15:09:20,659 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2025-01-14 15:09:20,661 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 8654 ms
+2025-01-14 15:09:27,830 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2025-01-14 15:09:27,830 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2025-01-14 15:09:28,039 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2025-01-14 15:09:28,039 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2025-01-14 15:09:28,319 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'taskScheduler'
+2025-01-14 15:09:28,319 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'taskScheduler'
+2025-01-14 15:09:28,519 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63110"]
+2025-01-14 15:09:28,519 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63110"]
+2025-01-14 15:09:28,832 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63110 (http) with context path '/system'
+2025-01-14 15:09:28,832 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63110 (http) with context path '/system'
+2025-01-14 15:09:28,835 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2025-01-14 15:09:28,835 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2025-01-14 15:09:28,868 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2025-01-14 15:09:28,868 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2025-01-14 15:09:28,938 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2025-01-14 15:09:28,938 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2025-01-14 15:09:29,421 INFO [main][StartupInfoLogger.java:61] - Started SystemApplication in 26.058 seconds (JVM running for 35.989)
+2025-01-14 15:09:29,421 INFO [main][StartupInfoLogger.java:61] - Started SystemApplication in 26.058 seconds (JVM running for 35.989)
+2025-01-14 15:09:54,630 INFO [http-nio-63110-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-14 15:09:54,630 INFO [http-nio-63110-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-14 15:09:54,632 INFO [http-nio-63110-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2025-01-14 15:09:54,632 INFO [http-nio-63110-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2025-01-14 15:09:54,830 INFO [http-nio-63110-exec-1][FrameworkServlet.java:547] - Completed initialization in 197 ms
+2025-01-14 15:09:54,830 INFO [http-nio-63110-exec-1][FrameworkServlet.java:547] - Completed initialization in 197 ms
+2025-01-14 15:09:55,786 INFO [http-nio-63110-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2025-01-14 15:09:55,786 INFO [http-nio-63110-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2025-01-14 15:09:58,391 INFO [http-nio-63110-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2025-01-14 15:09:58,391 INFO [http-nio-63110-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2025-01-14 15:20:36,889 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3f2f093b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,889 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3f2f093b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,919 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@62222d5c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,919 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@62222d5c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,933 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@49755641 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,933 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@49755641 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,940 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2f6d1b6c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,940 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2f6d1b6c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,951 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@711027f9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,951 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@711027f9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,960 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@22bac4a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:36,960 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@22bac4a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:37,173 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@618f3510 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:37,173 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@618f3510 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:37,201 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@26fef436 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:37,201 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@26fef436 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:37,217 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@562120ff (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:37,217 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@562120ff (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:37,231 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@9379f8d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:20:37,231 WARN [http-nio-63110-exec-3][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@9379f8d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,001 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@60c508f8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,001 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@60c508f8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,298 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5859750f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,298 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5859750f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,301 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@10132434 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,301 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@10132434 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,305 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@20580d5e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,305 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@20580d5e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,310 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@41d7fd8c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,310 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@41d7fd8c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,324 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@523509b4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,324 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@523509b4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,334 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b8eb542 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,334 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b8eb542 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,351 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3b5c6190 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,351 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3b5c6190 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,390 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4599c0ea (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,390 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4599c0ea (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,541 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3f1b0944 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2025-01-14 15:57:17,541 WARN [http-nio-63110-exec-7][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3f1b0944 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.

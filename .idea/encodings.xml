@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchen-content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchen-content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchen-content/xue-content-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchen-content/xue-content-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchen-content/xue-content-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchen-content/xue-content-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchen-content/xue-content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchen-content/xue-content-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-base/xue-content-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-base/xue-content-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-content/xue-content-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-content/xue-content-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-content/xue-content-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-content/xue-content-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-content/xue-content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-content/xue-content-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-system/xue-system-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-system/xue-system-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-system/xue-system-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-system/xue-system-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-system/xue-system-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xingchenXue-system/xue-system-service/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
