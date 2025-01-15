@@ -17,10 +17,13 @@
         </processorPath>
         <module name="xue-system-api" />
         <module name="xue-system-model" />
+        <module name="xue-media-service" />
+        <module name="xue-media-model" />
         <module name="xue-content-model" />
         <module name="xue-system-service" />
         <module name="XingchenXue-gateway" />
         <module name="xue-content-service" />
+        <module name="xue-media-api" />
         <module name="xingchenXue-base" />
         <module name="xue-content-api" />
       </profile>

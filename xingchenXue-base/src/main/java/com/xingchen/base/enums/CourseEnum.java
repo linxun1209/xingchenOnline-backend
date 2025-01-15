@@ -24,6 +24,18 @@ public enum CourseEnum implements IEnum<String> {
     FEE_NO("201000","免费"),
     FEE_YES("201001","收费"),
 
+    MINIO_AUDIT_PENDING("002002","未审核"),
+    MINIO_AUDIT_NO("002001","审核未通过"),
+    MINIO_AUDIT_YES("002003","审核通过"),
+
+    MINIO_FILE_YES("1","展示"),
+    MINIO_FILE_NO("0","不展示"),
+    MINIO_FILE_LOCK("-1","文件锁住"),
+
+    MINIO_TYPE_IMG("001001","图片"),
+    MINIO_TYPE_VIDEO("001002","视频"),
+    MINIO_TYPE_OTHER("001003","其它"),
+
     ;
 
     private String code;

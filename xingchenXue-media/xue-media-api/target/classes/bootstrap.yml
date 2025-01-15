@@ -1,0 +1,56 @@
+
+# media模块的启动类在启动的时候，就会根据这个文件去读取配置
+server:
+  port: 63050
+  servlet:
+    # 外部想要访问这个media模块的controller请求，就必须在请求路径前面加上/media，例如 http://localhost:63050/media/xxxxx/list
+    context-path: /media
+
+#微服务配置
+spring:
+  servlet:
+    multipart:
+      max-file-size: 100MB # 单个上传文件的最大值默认是1MB
+      max-request-size: 100MB # 请求中所有上传文件大小的总大小默认是10MB
+  application:
+    # 这个xue-media-api模块叫什么服务名，取一个名字
+    name: media-api
+
+  # 把xue-system-api模块，也就是把system-api服务 注册到Nacos
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      discovery:
+        namespace: dev
+        # 必须要在同一个group的服务，才可以互相调用
+        # group的名字随便取，但是必须都叫同一个名，不然调用不了
+        group: springbooXue-project
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://124.220.13.23:3306/XUE_CONTENT?characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 419520
+
+mybatis-plus:
+  configuration:
+    # 日志
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      # 主键自增
+      id-type: auto
+
+swagger:
+  title: "学成在线"
+  description: "媒资管理模块"
+  base-package: com.xingchen.media
+  enabled: true
+  version: 1.0.0
+minio:
+  endpoint: http://124.220.13.23:9000 #minio服务地址
+  accessKey: minioadmin #minio的用户名
+  secretKey: minioadmin #minio的密码
+  bucket:
+    files: xingchen
+    videofiles: video

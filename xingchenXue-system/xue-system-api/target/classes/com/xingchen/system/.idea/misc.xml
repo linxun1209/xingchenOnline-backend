@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/xingchen-content/xue-content-api" />
+    <file type="web" url="file://$PROJECT_DIR$/xingchen-content/xue-content-model" />
+    <file type="web" url="file://$PROJECT_DIR$/xingchen-content/xue-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/xingchenXue-base/xue-content-model" />
+    <file type="web" url="file://$PROJECT_DIR$/xingchenXue-content/xue-content-api" />
+    <file type="web" url="file://$PROJECT_DIR$/xingchenXue-content/xue-content-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xingchneXue-system/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/xingchenXue-base/xue-content-model/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
