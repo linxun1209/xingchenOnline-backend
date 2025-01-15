@@ -11,6 +11,14 @@ spring:
   application:
     # 服务名
     name: system-api
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      discovery:
+        namespace: dev
+        # 必须要在同一个group的服务，才可以互相调用
+        # group的名字随便取，但是必须都叫同一个名，不然调用不了
+        group: springbootXue-project
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://124.220.13.23:3306/XUE_CONTENT?characterEncoding=utf-8&serverTimezone=Asia/Shanghai
