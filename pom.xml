@@ -14,6 +14,7 @@
         <module>xingchenXue-base</module>
         <module>xingchenXue-content</module>
         <module>xingchenXUe-system</module>
+        <module>XingchenXue-gateway</module>
     </modules>
 
     <properties>
